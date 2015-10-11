@@ -1,0 +1,14 @@
+#DEBUG,0;WARN,1;ERROR,2;NOLOG,3
+/log/level
+2
+
+/net/ip
+127.0.0.1
+
+/net/tcpport
+80
+
+/net/threadnum
+64
+
+

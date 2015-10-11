@@ -1,0 +1,95 @@
+body
+{
+	margin:0px:
+	padding:0px;
+	font-family:ËÎÌו, sans-serif;
+	font-size:16px;
+}
+
+#menubar
+{
+	float:left;
+	margin:0px:
+	padding:0px;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+#userbar
+{
+	float:right;
+	margin:0px:
+	padding:0px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.divborder
+{
+	clear:both;
+	margin:0px:
+	padding:0px;
+	border-bottom:1px solid #DDDDFF;
+}
+#logo
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#imagetype
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#imagearea
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#keyarea
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#uploadarea
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#linkarea
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#normalarea
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+#footbar
+{
+	float:none;
+	margin:0px:
+	padding:0px;
+}
+
+p
+{
+	text-indent:0px;
+	line-height:180%;
+	margin-top:0;
+	margin-bottom:3px;
+}
+.figure
+{
+	float:left;
+	width:100px;
+	margin:5px 10px 10px 10px;
+}

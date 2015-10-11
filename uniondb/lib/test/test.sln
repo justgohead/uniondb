@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test.vcproj", "{C718B933-891D-4BCB-BAC0-5AAA047237D3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A1108B84-2881-4DA3-8F2E-C439C31B1168} = {A1108B84-2881-4DA3-8F2E-C439C31B1168}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leeloo", "..\leeloo.vcproj", "{A1108B84-2881-4DA3-8F2E-C439C31B1168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C718B933-891D-4BCB-BAC0-5AAA047237D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C718B933-891D-4BCB-BAC0-5AAA047237D3}.Debug|Win32.Build.0 = Debug|Win32
+		{C718B933-891D-4BCB-BAC0-5AAA047237D3}.Release|Win32.ActiveCfg = Release|Win32
+		{C718B933-891D-4BCB-BAC0-5AAA047237D3}.Release|Win32.Build.0 = Release|Win32
+		{A1108B84-2881-4DA3-8F2E-C439C31B1168}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1108B84-2881-4DA3-8F2E-C439C31B1168}.Debug|Win32.Build.0 = Debug|Win32
+		{A1108B84-2881-4DA3-8F2E-C439C31B1168}.Release|Win32.ActiveCfg = Release|Win32
+		{A1108B84-2881-4DA3-8F2E-C439C31B1168}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
